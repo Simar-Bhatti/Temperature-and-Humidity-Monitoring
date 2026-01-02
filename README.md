@@ -10,7 +10,7 @@ This project reads **temperature and humidity data** from a **DHT11 sensor** con
 
 - Serial monitoring
 - OLED display (SSD1306)
-- Cloud logging (e.g., Google Sheets / IoT dashboards)
+- Cloud logging (e.g., Google Sheets / IoT dashboards like Blynk)
 
 The project is modular and easy to extend for real-world IoT use cases.
 
@@ -63,9 +63,3 @@ The project is modular and easy to extend for real-world IoT use cases.
 *(Pin can be changed in code if required)*
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
