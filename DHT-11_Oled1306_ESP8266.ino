@@ -24,7 +24,7 @@
 #define OLED_RESET -1
 
 // Blynk Authentication
-char auth[] = "gr3z8ed8z1tig7s0XJrFHNk2Vudg7tw_"; // Replace with your Blynk auth token
+char auth[] = "gr3z8ed8z1tig7s0XJrFHNk2Vudg7tw_";
 
 // WiFi Credentials
 char ssid[] = "BHATTI-2.4Ghz";
@@ -63,7 +63,7 @@ void setup() {
 }
 
 void loop() {
-  Blynk.run(); // Run Blynk
+  Blynk.run(); 
   
   delay(2000); // Wait between measurements
 
